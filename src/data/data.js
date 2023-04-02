@@ -1,11 +1,14 @@
-import WorkIm from '../assets/projects/workImg.jpeg'
+import BENJIMAR from '../assets/projects/BENJIMAR.png'
 import SaladsAndSmiles from '../assets/projects/saladsandsmiles.png'
+import PTPortofolio from '../assets/projects/ptPortofolio.png'
+import SpeedGame from '../assets/projects/speedgame.png'
+import CycloneArcade from '../assets/projects/cycloneArcade.png'
 
 export const data=[
     {
         id:1,
-        name:"React JS Application",
-        image:WorkIm,
+        name:"SpeakUP",
+        image:"",
         github:"",
         live:"",
     },
@@ -18,17 +21,31 @@ export const data=[
     },
     {
         id:3,
-        name:"React JS Application",
-        image:WorkIm,
-        github:"",
-        live:"",
+        name:"BENJIMAR",
+        image:BENJIMAR,
+        github:"https://github.com/izaacyo/BENJIMAR",
+        live:"https://benjimar.com/",
     },
     {
         id:4,
-        name:"React JS Application",
-        image: SaladsAndSmiles,
-        github:"",
-        live:"",
+        name:"Cyclone Arcade",
+        image:CycloneArcade,
+        github:"https://github.com/izaacyo/JS_TASKS/tree/main/cycloneArcade",
+        live:"https://cyclonearcadejs.netlify.app/",
+    },
+    {
+        id:5,
+        name:"Personal Trainer Portofolio",
+        image: PTPortofolio,
+        github:"https://github.com/izaacyo/Portfolio",
+        live:"https://portofoliomariustrainer.netlify.app/",
+    },
+    {
+        id:6,
+        name:"Archery Speedgame",
+        image:SpeedGame,
+        github:"https://github.com/izaacyo/REACT_SPEEDGAME",
+        live:"https://archeryspeedgame.netlify.app/",
     },
 
 
