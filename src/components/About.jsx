@@ -14,14 +14,14 @@ const About = () => {
           </div>
           <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
             <div className='sm:text-right text-4xl font-bold'>
-              <p>Hi. I'm Sai Kumar, nice to meet you. Please take a look around.</p>
+              <p> Knowledge explorer, synchronizing opposites to reach fullfilment.</p>
             </div>
             <div>
-              <p>I am passionate about building excellent software that improves
-              the lives of those around me. I specialize in creating software
-              for clients ranging from individuals and small-businesses all the
-              way to large enterprise corporations. What would you do if you had
-              a software expert available at your fingertips?</p>  
+              <div>I am currently working as a Software Developer for  
+              <a href='https://druid.fi/en/' target="_blank" className='text-blue-300'> Druid Oy. </a>
+              </div>
+              <div> In my free time you can find me either writing lyrics, practicing physical movement outdoors or learning about fields I have no history with. 
+              The values I resonate with the most are boldness, accountability and trust. </div>
             </div>
           </div>
       </div>

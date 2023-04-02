@@ -1,32 +1,32 @@
 import WorkIm from '../assets/projects/workImg.jpeg'
-import RealEst from '../assets/projects/realestate.jpg'
+import SaladsAndSmiles from '../assets/projects/saladsandsmiles.png'
 
 export const data=[
     {
         id:1,
-        name:"Sneakers Loop",
+        name:"React JS Application",
         image:WorkIm,
         github:"",
         live:"",
     },
     {
         id:2,
-        name:"Salads Smiles",
-        image:RealEst,
-        github:"",
-        live:"",
+        name:"Salads&Smiles",
+        image:SaladsAndSmiles,
+        github:"https://github.com/izaacyo/SaladsSmiles_client",
+        live:"https://saladsandsmiles.netlify.app/",
     },
     {
         id:3,
-        name:"Speedgame",
+        name:"React JS Application",
         image:WorkIm,
         github:"",
         live:"",
     },
     {
         id:4,
-        name:"Cyclone Arcade",
-        image:RealEst,
+        name:"React JS Application",
+        image: SaladsAndSmiles,
         github:"",
         live:"",
     },
