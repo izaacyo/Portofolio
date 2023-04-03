@@ -9,43 +9,49 @@ export const data=[
         id:1,
         name:"SpeakUP",
         image:"",
-        github:"",
+        repo:"",
         live:"",
+        overview:"/about"
     },
     {
         id:2,
         name:"Salads&Smiles",
         image:SaladsAndSmiles,
-        github:"https://github.com/izaacyo/SaladsSmiles_client",
+        repo:"https://github.com/izaacyo/SaladsSmiles_client",
         live:"https://saladsandsmiles.netlify.app/",
+        overview:""
     },
     {
         id:3,
         name:"BENJIMAR",
         image:BENJIMAR,
-        github:"https://github.com/izaacyo/BENJIMAR",
+        repo:"https://github.com/izaacyo/BENJIMAR",
         live:"https://benjimar.com/",
+        overview:""
     },
     {
         id:4,
         name:"Cyclone Arcade",
         image:CycloneArcade,
-        github:"https://github.com/izaacyo/JS_TASKS/tree/main/cycloneArcade",
+        repo:"https://github.com/izaacyo/JS_TASKS/tree/main/cycloneArcade",
         live:"https://cyclonearcadejs.netlify.app/",
+        overview:""
     },
     {
         id:5,
         name:"Personal Trainer Portofolio",
         image: PTPortofolio,
-        github:"https://github.com/izaacyo/Portfolio",
+        repo:"https://github.com/izaacyo/Portfolio",
         live:"https://portofoliomariustrainer.netlify.app/",
+        overview:""
     },
     {
         id:6,
         name:"Archery Speedgame",
         image:SpeedGame,
-        github:"https://github.com/izaacyo/REACT_SPEEDGAME",
+        repo:"https://github.com/izaacyo/REACT_SPEEDGAME",
         live:"https://archeryspeedgame.netlify.app/",
+        overview:""
     },
 
 
