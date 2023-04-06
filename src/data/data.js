@@ -3,15 +3,16 @@ import SaladsAndSmiles from '../assets/projects/saladsandsmiles.png'
 import PTPortofolio from '../assets/projects/ptPortofolio.png'
 import SpeedGame from '../assets/projects/speedgame.png'
 import CycloneArcade from '../assets/projects/cycloneArcade.png'
+import SpeakUP from '../assets/projects/speakUP.png'
 
 export const data=[
     {
         id:1,
         name:"SpeakUP",
-        image:"",
-        repo:"",
-        live:"",
-        overview:"/about"
+        image:SpeakUP,
+        repo:"https://github.com/izaacyo/speakUP_client",
+        live:"https://speakupreact.netlify.app/",
+        overview:""
     },
     {
         id:2,
